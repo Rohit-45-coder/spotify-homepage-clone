@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    height: 70px;
+    background-color: rgb(196, 128, 128);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
